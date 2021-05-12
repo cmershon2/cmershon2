@@ -1,6 +1,8 @@
 <h1>Hi, I’m Casey Mershon!</h1>
 <h3>I am a computer scientist & developer.</h3>
-<h3>Currently I am learning the following:</h3>
+<p>Currently, I am a Tier 1 support agent at Salesforce for Datorama.</p>
+<hr>
+<h3>I am learning the following topics:</h3>
 <ul>
   <li>Python</li>
   <li>Advanced CSS</li>
