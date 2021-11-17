@@ -1,6 +1,6 @@
 <h1>Hi, I’m Casey Mershon!</h1>
 <h3>I am a computer scientist & developer.</h3>
-<p>Currently, I am a Tier 1 Support Engineer at Salesforce for Datorama.</p>
+<p>Currently, I am a Tier 2 Support Engineer at Salesforce for Datorama.</p>
 <hr>
 <h3>I am learning the following topics:</h3>
 <ul>
