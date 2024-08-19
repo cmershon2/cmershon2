@@ -11,8 +11,10 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/casey-mershon-23194b190/)
 - 📝 &nbsp; Checkout my [portfolio](https://www.caseymershon.co/)
 
+### 🔨 Languages and Tools:
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/kubernetes.svg" alt="kubernetes" height="42px"/> </a> 
+
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
+ 
 ![Stats Overview](https://raw.githubusercontent.com/cmershon2/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/cmershon2/github-stats-transparent/output/generated/languages.svg)
