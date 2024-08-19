@@ -12,7 +12,23 @@
 - 📝 &nbsp; Checkout my [portfolio](https://www.caseymershon.co/)
 
 ### 🔨 Languages and Tools:
-<a href="https://kubernetes.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/kubernetes.svg" alt="kubernetes" height="42px"/> </a> 
+<a href="https://nestjs.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/NestJS.svg" alt="Nest JS" height="40px"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/node.svg" alt="Node" height="42px"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/kubernetes.svg" alt="kubernetes" height="40px"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/react.svg" alt="React" height="42px"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/python.svg" alt="Python" height="42px"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/docker-svgrepo-com.svg" alt="Ducker" height="40px"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/firebase.svg" alt="Firebase" height="42px"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/typescript.svg" alt="TypeScript" height="42px"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/nextjs-icon-svgrepo-com.svg" alt="Next JS" height="40px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/javascript.svg" alt="JavaScript" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/git-scm.svg" alt="Git" height="42px"/> </a>
+<a href="https://spring.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/Spring_Boot.svg" alt="Spring Boot" height="40px"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/tensorflow.svg" alt="Tensor Flow" height="42px"/> </a>
+
+
+<br>
+
 
 ### 📊 Github Stats
  
