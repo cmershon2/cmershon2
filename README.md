@@ -4,7 +4,7 @@
 
 ### 🔎 More About Me:
 
-- 🧊 &nbsp; I am currently working on [Chillwave](https://github.com/cmershon2/Chillwave)
+- 🧊 &nbsp; I am currently working on [MetaVisage](https://github.com/cmershon2/MetaVisage)
 - 🌱 &nbsp; I’m currently learning Typescript
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cmershon2?tab=repositories)
 - 💬 &nbsp; Ask me about anything, I love helping people
